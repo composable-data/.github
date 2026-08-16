@@ -1,8 +1,8 @@
 # composable-data (.github repo)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/license/MIT)
-[![Check Links](https://github.com/toy-gpt/.github/actions/workflows/links.yml/badge.svg)](https://github.com/toy-gpt/.github/actions/workflows/links.yml)
-[![Dependabot](https://img.shields.io/badge/Dependabot-enabled-brightgreen.svg)](https://github.com/toy-gpt/.github/security)
+[![Check Links](https://github.com/composable-data/.github/actions/workflows/links.yml/badge.svg)](https://github.com/composable-data/.github/actions/workflows/links.yml)
+[![Dependabot](https://img.shields.io/badge/Dependabot-enabled-brightgreen.svg)](https://github.com/composable-data/.github/security)
 
 <img
 src="https://raw.githubusercontent.com/composable-data/.github/main/docs/images/profile.png"
@@ -45,7 +45,7 @@ The primary project is:
 
 - [composable-data-core](https://github.com/composable-data/composable-data-core) -
   a small typed decision grammar for analytical work
-  
+
 ## Related Organizations
 
 - [analytics-toolworks](https://github.com/analytics-toolworks) -
