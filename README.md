@@ -15,6 +15,12 @@ This is the organization's special `.github` repository.
 It contains the public organization profile and community-health files GitHub
 can apply across repositories that do not provide their own.
 
+## Projects
+
+| Project                                                                         | PyPI                                                                   | Purpose                                           |
+| ------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------- |
+| [composable-data-core](https://github.com/composable-data/composable-data-core) | [composable-data-core](https://pypi.org/project/composable-data-core/) | Small, typed decision grammar for analytical work |
+
 ## Repository Contents
 
 - `profile/README.md` - public landing page shown at `github.com/composable-data`
@@ -40,11 +46,6 @@ Its packages are intended to remain:
 - dependency-light
 - interoperable
 - based on established analytical language
-
-The primary project is:
-
-- [composable-data-core](https://github.com/composable-data/composable-data-core) -
-  a small typed decision grammar for analytical work
 
 ## Related Organizations
 
